@@ -24,7 +24,9 @@ print(user_profile)
 ```
 **特别注意**  
 当通过`**`生成字典时，实参格式略有不同，其“key”位置无单(双)引号，如上述代码  
-`user_profile = bulid_profile('lucy', 'dick', location='American', field='biology')`
+
+`user_profile = bulid_profile('lucy', 'dick', location='American', field='biology')`  
+  
 但是输出时，其存在字符类型的单引号  
 
 ![mark](http://p4ihydscy.bkt.clouddn.com/blog/180228/k5kCG4Icfj.png?imageslim)
