@@ -1,6 +1,6 @@
-from printing import print_function
+from print_function import printing_model
 
 unprinting = ['wangzhen','zhangzhicheng','lichen','fangzhihuang']
 ending = []
 #print_function.
-print_function.printing_model(unprinting, ending)
+printing_model(unprinting, ending)
