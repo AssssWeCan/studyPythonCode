@@ -4,9 +4,7 @@
 
 >github 同性程序员交友社区
 
- My learning process from Function   
- Why there is no learing process about the first  chapters? Because I don't know github.   
- And why I don't supplement them? Because I'm lazy.  
- (*Shhhh2333333*)
- 
- 
+###My learning process
+No the first six chapters ,and never add them back
+
+包括，函数、类、模块、文件和异常处理
