@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/04-CLASS/Restaurant_import_test" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04-CLASS/User_import_test" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05-FileAndAbnormal/three_related_program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-test_for_function/cityAndCountryTEST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-test_for_function/employee" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
